@@ -1,0 +1,28 @@
+.sobuj{
+
+    height: 300px;
+    width: 600px;
+    background-color: green;
+    position: relative;
+
+
+}
+
+.lal{
+
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 50%;
+    top: 10;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    
+
+
+
+
+}
